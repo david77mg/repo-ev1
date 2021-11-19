@@ -1,0 +1,78 @@
+
+/* Style k1. Custom Style by Oscar David  Octubre2021 */
+/* Style k1.   by Oscar David */
+
+/* Folders: css -html -img -js */
+/* Custom Colors */
+
+
+
+#id_body1 body{
+    background-color:coral;
+}
+
+.clase_body1 body{
+    background-color: teal;
+}
+
+header #headerk1 {
+    background-color:aqua;
+}
+
+header .headerk1 {
+    background-color: teal;
+    
+    margin-top: 3rem;
+}
+
+.bgcolorblack h4 {
+    background-color:black;
+}
+.bgcolorteal {
+    background-color: teal;
+}
+
+#id_headerk1 header{
+    background-color:coral;
+}
+
+h4.stylefor4 {
+    color: teal;
+    background-color:black;
+    height: 3rem;
+}
+
+p.colorteal {
+    color: teal;
+}
+
+/* .div_01 {
+
+
+}
+
+.div_02 {
+
+    
+}
+
+.div_03 {
+
+    
+}
+
+.div_04 {
+
+    
+}
+.div_05 {
+
+    
+} */
+
+
+.solidlinek1{
+border: 3px solid slategray;
+
+}
+    
